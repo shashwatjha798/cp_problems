@@ -1,3 +1,5 @@
+// Question: https://codeforces.com/problemset/problem/282/A
+
 #include <iostream>
 #include<strings.h>
 using namespace std;
